@@ -1,4 +1,4 @@
-## ornek_proje
+## a simple counter app
 
 A new Flutter project.
 
